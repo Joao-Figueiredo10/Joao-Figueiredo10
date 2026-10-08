@@ -12,40 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ Olá! Sou o João Figueiredo
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Figueiredo10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
+---
+
+### ⚡ João Figueiredo
 `SYSTEM://ONLINE`
 
-Olá! Sou o **João Figueiredo**, estudante do curso técnico de desenvolvimento de software na **Oficina - Escola Profissional do INA**. Sou apaixonado por tecnologia e estou constantemente a aprender novas ferramentas para criar soluções eficientes.
-
----
-
-### 🧑‍💻 Sobre Mim
-* 🎓 Estudante de **Desenvolvimento de Software** na Oficina.
-* 🚀 Focado em aprender novas tecnologias, lógica de programação e arquitetura de sistemas.
-* 🛠️ Gosto de transformar café e linhas de código em aplicações reais e eficientes.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-As principais linguagens e ferramentas com as quais trabalho no meu percurso:
-
-* 🐍 **Python** - Automação, scripts e lógica de programação
-* 🔵 **C/C++** - Estrutura de dados e fundamentos de baixo nível
-* ⚛️ **React** - Criação de interfaces web dinâmicas
-* ☕ **Java** - Programação orientada a objetos (POO)
-* 🟨 **JavaScript** - Desenvolvimento web interativo e funcional
-* 🧡 **HTML5** - Estruturação e semântica para a web
-
----
-
-### 🌐 Onde me encontrar
-
-Se queres acompanhar o meu trabalho ou entrar em contacto, podes fazê-lo através dos seguintes links:
-
+* 🎓 **Estudante:** Desenvolvimento de Software na [Oficina - Escola Profissional do INA](https://oficina.pt)
+* 🛠️ **Tecnologias:** `Python` | `C/C++` | `React` | `Java` | `JavaScript` | `HTML5`
 * 👔 **LinkedIn:** [João Afonso Machado Figueiredo](https://linkedin.com)
-* 💻 **GitHub:** [@Joao-Figueiredo10](https://github.com)
-* 🏫 **Escola:** [Oficina - Escola Profissional do INA](https://oficina.pt)
+* 💻 **GitHub:** [@Joao-Figueiredo10](https://github.com/Joao-Figueiredo10)
 
----
 <p align="center"><i>"While unturned stones exist, code keeps spinning."</i> 🚀</p>
