@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ Olá! Sou o João Figueiredo <img src="https://githubusercontent.com" width="30px">
+# ⚡ Olá! Sou o João Figueiredo
 
-<p align="center">
-  <img src="https://demolab.com..." alt="Typing SVG" />
-</p>
+`SYSTEM://ONLINE`
 
 ### 🧑‍💻 Sobre Mim
 * 🎓 Estudante do curso técnico de **Desenvolvimento de Software** na **Oficina - Escola Profissional do INA**.
@@ -28,9 +26,12 @@ Here are some ideas to get you started:
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
 </p>
 
 ---
@@ -42,10 +43,6 @@ Here are some ideas to get you started:
   <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Streak do GitHub" />
-</p>
-
 ---
 
 ### 🌐 Vamos conversar?
@@ -54,11 +51,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:teu-email@email.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
 </p>
 
 ---
-<p align="center">Como diz o clássico: <i>"While unturned stones exist, code keeps spinning."</i> 🚀</p>
-
+<p align="center"><i>"While unturned stones exist, code keeps spinning."</i> 🚀</p>
