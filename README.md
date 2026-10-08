@@ -12,4 +12,53 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Joao-Figueiredo10's GitHubCard](https://githubcard.com/Joao-Figueiredo10.svg?d=3gKBr16sTmET)](https://githubcard.com/Joao-Figueiredo10/card?utm_source=github&utm_medium=readme)
+# ⚡ Olá! Sou o João Figueiredo <img src="https://githubusercontent.com" width="30px">
+
+<p align="center">
+  <img src="https://demolab.com..." alt="Typing SVG" />
+</p>
+
+### 🧑‍💻 Sobre Mim
+* 🎓 Estudante do curso técnico de **Desenvolvimento de Software** na **Oficina - Escola Profissional do INA**.
+* 🚀 Focado em aprender novas tecnologias, lógica de programação e arquitetura de sistemas.
+* 🛠️ Gosto de transformar café e linhas de código em aplicações reais e eficientes.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Streak do GitHub" />
+</p>
+
+---
+
+### 🌐 Vamos conversar?
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:teu-email@email.com" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+---
+<p align="center">Como diz o clássico: <i>"While unturned stones exist, code keeps spinning."</i> 🚀</p>
+
