@@ -31,7 +31,7 @@ Olá! Sou o **João Figueiredo**, estudante do curso técnico de desenvolvimento
 As principais linguagens e ferramentas com as quais trabalho no meu percurso:
 
 * 🐍 **Python** - Automação, scripts e lógica de programação
-* 🔵 **C** - Estrutura de dados e fundamentos de baixo nível
+* 🔵 **C/C++** - Estrutura de dados e fundamentos de baixo nível
 * ⚛️ **React** - Criação de interfaces web dinâmicas
 * ☕ **Java** - Programação orientada a objetos (POO)
 * 🟨 **JavaScript** - Desenvolvimento web interativo e funcional
