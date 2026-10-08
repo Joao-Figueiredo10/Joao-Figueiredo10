@@ -16,42 +16,36 @@ Here are some ideas to get you started:
 
 `SYSTEM://ONLINE`
 
+Olá! Sou o **João Figueiredo**, estudante do curso técnico de desenvolvimento de software na **Oficina - Escola Profissional do INA**. Sou apaixonado por tecnologia e estou constantemente a aprender novas ferramentas para criar soluções eficientes.
+
+---
+
 ### 🧑‍💻 Sobre Mim
-* 🎓 Estudante do curso técnico de **Desenvolvimento de Software** na **Oficina - Escola Profissional do INA**.
+* 🎓 Estudante de **Desenvolvimento de Software** na Oficina.
 * 🚀 Focado em aprender novas tecnologias, lógica de programação e arquitetura de sistemas.
 * 🛠️ Gosto de transformar café e linhas de código em aplicações reais e eficientes.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias e Ferramentas
+As principais linguagens e ferramentas com as quais trabalho no meu percurso:
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180px" />
-</p>
+* 🐍 **Python** - Automação, scripts e lógica de programação
+* 🔵 **C** - Estrutura de dados e fundamentos de baixo nível
+* ⚛️ **React** - Criação de interfaces web dinâmicas
+* ☕ **Java** - Programação orientada a objetos (POO)
+* 🟨 **JavaScript** - Desenvolvimento web interativo e funcional
+* 🧡 **HTML5** - Estruturação e semântica para a web
 
 ---
 
-### 🌐 Vamos conversar?
+### 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+Se queres acompanhar o meu trabalho ou entrar em contacto, podes fazê-lo através dos seguintes links:
+
+* 👔 **LinkedIn:** [João Afonso Machado Figueiredo](https://linkedin.com)
+* 💻 **GitHub:** [@Joao-Figueiredo10](https://github.com)
+* 🏫 **Escola:** [Oficina - Escola Profissional do INA](https://oficina.pt)
 
 ---
 <p align="center"><i>"While unturned stones exist, code keeps spinning."</i> 🚀</p>
