@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Joao-Figueiredo10/Joao-Figueiredo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Joao-Figueiredo10's GitHubCard](https://githubcard.com/Joao-Figueiredo10.svg?d=3gKBr16sTmET)](https://githubcard.com/Joao-Figueiredo10/card?utm_source=github&utm_medium=readme)
