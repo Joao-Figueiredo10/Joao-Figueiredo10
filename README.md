@@ -12,46 +12,70 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ Olá! Sou o João Figueiredo
+# João Figueiredo (Joao-Figueiredo10)
 
-`SYSTEM://ONLINE`
+```text
+SYSTEM://ONLINE
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Figueiredo10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+## ⚡ STACK.tecnologica
 
----
-
-### 🧑‍💻 Sobre Mim
-Olá! Sou o **João Figueiredo**, estudante do curso técnico de desenvolvimento de software na **Oficina - Escola Profissional do INA**. Sou apaixonado por tecnologia e estou constantemente a aprender novas ferramentas para criar soluções eficientes.
-
-* 🎓 Estudante de **Desenvolvimento de Software** na [Oficina - Escola Profissional do INA](https://oficina.pt).
-* 🚀 Focado em aprender novas tecnologias, lógica de programação e arquitetura de sistemas.
-* 🛠️ Gosto de transformar café e linhas de código em aplicações reais e eficientes.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-As principais linguagens e ferramentas com as quais trabalho no meu percurso:
-
-| Tecnologia | Badge |
-| --- | --- |
-| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **C/C++** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **React** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Java** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **HTML5** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| Tecnologia | Tipo / Uso |
+| :--- | :--- |
+| **Python** | Automatização e Lógica |
+| **C/C++** | Estrutura e Gestão de Dados |
+| **React** | Aplicações Web Modernas |
+| **Java** | Programação Orientada a Objetos |
+| **JavaScript** | Interatividade e Web |
+| **HTML5** | Estruturação Web |
 
 ---
 
-### 🌐 Onde me encontrar
+## 📡 TELEMETRIA.github
 
-Se queres acompanhar o meu trabalho ou entrar em contacto, podes fazê-lo através dos seguintes links:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Figueiredo10)
-[![Escola](https://img.shields.io/badge/Oficina-Escola%20INA-blue?style=for-the-badge)](https://oficina.pt)
+![Estatísticas do GitHub](https://vercel.app)
+![Linguagens mais usadas](https://vercel.app)
 
 ---
-<p align="center"><i>"While unturned stones exist, code keeps spinning."</i> 🚀</p>
+
+## 🧪 PROJETOS.destaque
+
+| Projeto | O que faz | Tech |
+| :--- | :--- | :--- |
+| **gestao-alunos** | Sistema de gestão de alunos | C++ |
+| **gestao-carros** | Sistema de gestão de frotas/automóveis | C++ |
+| **java-oop** | Exercícios de Programação Orientada a Objetos | Java |
+| **java-turmas** | Revisões e organização de turmas | Java |
+| **CRUD** | Operações básicas de base de dados | Java |
+| **REACT-APP-1** | Aplicação web inicial com React e Vite | JavaScript |
+
+---
+
+## 🐍 CONTRIBUICOES.snake
+
+![Animação da Cobrinha](https://githubusercontent.com)
+
+---
+
+## 🧑💻 SOBRE MIM
+
+Estudante do curso técnico de desenvolvimento de software na **Oficina - Escola Profissional do INA**. Apaixonado por tecnologia, focado em aprender arquitetura de sistemas e em transformar café e linhas de código em aplicações eficientes.
+
+> *"While unturned stones exist, code keeps spinning."* 🚀
+
+---
+
+## 🎯 ROADMAP.2026
+
++ [x] Dominar os fundamentos de C/C++ e lógica de programação
++ [x] Construir CRUDs e projetos de gestão em Java
++ [~] Explorar o desenvolvimento web com React e Vite
++ [ ] Estudar bases de dados avançadas e APIs
++ [ ] Desenvolver um projeto Full Stack completo
++ [ ] Conseguir o primeiro estágio em tecnologia
+
+---
+
+## 📬 CONTACTO
+
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-afonso-machado-figueiredo-1760a93b2/) | [Email](mailto:a14871@email.com) | [Oficina - INA](https://oficina.pt)
