@@ -76,13 +76,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 🏆 `CONQUISTAS`
+## 🐍 `SNAKE.exe`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Joao-Figueiredo10&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Figueiredo10&bg_color=0d1117&color=00F5FF&line=7B2FF7&point=FF00C8&area=true&area_color=7B2FF7&hide_border=true&radius=10"/>
+<img src="assets/snake.svg" alt="Jogo da cobrinha animado" width="100%"/>
 
 </div>
 
