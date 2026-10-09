@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00C8&height=140&section=header)
 
-<!-- CARD LED ANIMADO (ficheiro assets/card.svg) -->
-<img src="assets/card.svg" alt="Cartão futurista de João Figueiredo" width="100%"/>
+<img src="assets/card.svg" alt="Cartão de João Figueiredo" width="100%"/>
 
 <br/>
 
@@ -97,53 +96,5 @@ Here are some ideas to get you started:
 [![Oficina](https://img.shields.io/badge/Oficina-Escola%20Profissional%20do%20INA-00F5FF?style=for-the-badge&labelColor=0d1117)](https://oficina.pt)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00C8&height=120&section=footer)
-
-</div>
-
-  
-
-
-| Projeto | Descrição | Linguagem / tecnologia |
-|---|---|---|
-| [gestao-alunos](https://github.com/Joao-Figueiredo10/gestao-alunos ) | Gestão de alunos | C++ |
-| [gestao-carros](https://github.com/Joao-Figueiredo10/gestao-carros ) | Gestão de carros | C++ |
-| [java-oop](https://github.com/Joao-Figueiredo10/java-oop ) | Projeto de programação orientada a objetos | Java |
-| [java-turmas](https://github.com/Joao-Figueiredo10/java-turmas ) | Projeto Java | Java |
-| [CRUD](https://github.com/Joao-Figueiredo10/CRUD ) | Projeto Java | Java |
-| [REACT-APP-1](https://github.com/Joao-Figueiredo10/REACT-APP-1 ) | Início de uma aplicação web com React e Vite | JavaScript, React e Vite |
-
-</details>
-
-  
-
-
-## 🏆 `CONQUISTAS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Joao-Figueiredo10&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Conquistas GitHub" />
-
-  
-  
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Figueiredo10&bg_color=0d1117&color=00F5FF&line=7B2FF7&point=FF00C8&area=true&area_color=7B2FF7&hide_border=true&radius=10" width="100%" alt="Gráfico de atividade GitHub" />
-
-</div>
-
-  
-
-
-## 📬 `CONTACTO`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Joao--Figueiredo10-181717?style=for-the-badge&logo=github&logoColor=white )](https://github.com/Joao-Figueiredo10 )
-[![Oficina — Escola Profissional do INA](https://img.shields.io/badge/Oficina-Escola%20Profissional%20do%20INA-00F5FF?style=for-the-badge&labelColor=0d1117 )](https://oficina.pt )
-
-  
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF00C8&height=120&section=footer" width="100%" alt="Rodapé colorido" />
 
 </div>
