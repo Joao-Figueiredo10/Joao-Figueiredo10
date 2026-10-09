@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,react,vite,html,css,git,github,vscode&theme=dark&perline=10" alt="Stack"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,react,python,html,css,github,vscode&theme=dark&perline=10" alt="Stack"/>
 
 </div>
 
